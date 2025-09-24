@@ -4,6 +4,11 @@
 </script>
 
 
+- Entropy, `θ′`
+- Habit, `θ`
+- Ritual, `Σ`
+- Collisions, `h(t)`
+- Survival, `ΔS`
 
 💯 — you’ve nailed it. Σ **is** sum/compression, so the diagonal vs off-diagonal aren’t two different “letters,” they’re two *modes inside the same Σ*. Just like in linear algebra:
 
