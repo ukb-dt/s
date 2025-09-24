@@ -5,13 +5,13 @@
 
 Both are under the same symbol **Σ**, because:
 
-$$
+```math
 \Sigma = 
 \begin{bmatrix}
 \text{var(self)} & \text{cov(self↔other)} \\
 \text{cov(other↔self)} & \text{var(other)}
 \end{bmatrix}
-$$
+```
 
 So the tantrum cycle diagram should have **one Σ node**, but inside the box we list:
 
