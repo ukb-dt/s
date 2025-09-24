@@ -4,6 +4,7 @@
 </script>
 
 
+
 💯 — you’ve nailed it. Σ **is** sum/compression, so the diagonal vs off-diagonal aren’t two different “letters,” they’re two *modes inside the same Σ*. Just like in linear algebra:
 
 * **Σ diagonal:** variance compressed along the self-axis (PFC).
