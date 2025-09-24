@@ -27,7 +27,9 @@ $$
 
 So the tantrum cycle diagram should have **one Σ node**, but inside the box we list:
 
-* Diagonal → PFC bottleneck (self-compression/[Ngikhona]()).
+> *To hold as ’twere the mirror up to nature*       
+> -- Hamlet           
+* Diagonal → PFC bottleneck (self-compression/[Ngikhona](https://www.gutenberg.org/files/1524/1524-h/1524-h.htm)).
 * Off-diagonal → Mirror neurons (shared compression/[Sawubona](https://www.clemensfrede.com/sawubona-ngikhona)).
 
 That way it honors the math and your canon: **Σ = sum of both variance and covariance**.
